@@ -17,7 +17,7 @@
   <p>✨ C#</p>
   <p>✨ Java (Still Learning)</p>
   
-  <h1>📶 Github Stats</h1>
+  <h1><strong>📶 Github Stats</strong></h1>
   <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=bbyfoxy&layout=compact&theme=nightowl'></img>
   
   <img src = 'https://github-readme-stats.vercel.app/api?username=bbyfoxy&theme=nightowl'></img>
