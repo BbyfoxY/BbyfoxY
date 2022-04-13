@@ -18,6 +18,6 @@
   <p>✨ Java (Still Learning)</p>
   
   <h1>Github Stats</h1>
-  <img src = 'https://github-readme-stats.vercel.app/api?username=bbyfoxy'></img>
+  <img src = 'https://github-readme-stats.vercel.app/api?username=bbyfoxy&theme=nightowl'></img>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bbyfoxy&theme=nightowl" alt="" /></p>
 </div>
