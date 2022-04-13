@@ -1,3 +1,4 @@
+<div align = 'center'>
 # Hi
 I'm working on learning different programming languages and making some fun games.
 ## Languages I Know:
@@ -8,3 +9,4 @@ I'm working on learning different programming languages and making some fun game
 ### C#
 ### Python
 ### Java
+</div>
