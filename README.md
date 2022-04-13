@@ -19,5 +19,5 @@
   
   <h1>Github Stats</h1>
   <img src = 'https://github-readme-stats.vercel.app/api?username=bbyfoxy'></img>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaaclk&theme=nightowl" alt="" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bbyfoxy&theme=nightowl" alt="" /></p>
 </div>
